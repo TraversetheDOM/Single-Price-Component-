@@ -1,0 +1,19 @@
+/* Media Queries */
+
+@media screen and (min-width: 48em) {
+  .container {
+    max-width: 85rem;
+  }
+
+  .grid_pricing {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .community {
+    grid-column: 1/-1;
+  }
+
+  .community_description {
+    max-width: 61rem;
+  }
+}
