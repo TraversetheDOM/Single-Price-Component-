@@ -5,6 +5,7 @@
   --cyan: hsl(179, 62%, 43%);
   --light-cyan: hsl(179, 47%, 55%);
   --bright-yellow: hsl(71, 73%, 54%);
+  --white: hsl(0, 0%, 100%);
 
   /* Typography */
   --ff-Karla: "Karla", sans-serif;
