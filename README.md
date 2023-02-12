@@ -35,8 +35,8 @@ _A mobile view of the pricing component_
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/salutDami/Single-Price-Component-)
-- Live Site URL: [Add live site URL here](https://salutdami.github.io/Single-Price-Component-/)
+- Solution URL: [Add solution URL here](https://github.com/TraversetheDOM/Single-Price-Component-)
+- Live Site URL: [Add live site URL here](https://TraversetheDOM.github.io/Single-Price-Component-/)
 
 ## My process
 
