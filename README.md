@@ -35,8 +35,8 @@ _A mobile view of the pricing component_
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/TraversetheDOM/Single-Price-Component-)
-- Live Site URL: [Add live site URL here](https://TraversetheDOM.github.io/Single-Price-Component-/)
+- Solution URL: [Add solution URL here](https://github.com/stephenikuomola/Single-Price-Component-)
+- Live Site URL: [Add live site URL here](https://stephenikuomola.github.io/Single-Price-Component-/)
 
 ## My process
 
@@ -50,7 +50,7 @@ _A mobile view of the pricing component_
 
 ### What I learned
 
-My use of grid and flex-box seems to be getting much better after several practice.
+My use of grid and flex-box has improved after several practices.
 
 ### Continued development
 
@@ -62,6 +62,6 @@ I would keep on doing more projects to get better at my CSS as well as using the
 
 ## Author
 
-- Twitter - [@\_salutDami](https://www.twitter.com/_salutDami)
+- Twitter - [@\_salutDami](https://www.twitter.com/stephenikuomola)
 - Linkedin- [Ikuomola Stephen](https://www.linkedin.com/in/ikuomola-stephen/)
-- Frontend Mentor - [@salutDami](https://www.frontendmentor.io/profile/salutDami)
+- Frontend Mentor - [@salutDami](https://www.frontendmentor.io/profile/stephenikuomola)
